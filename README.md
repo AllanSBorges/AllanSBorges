@@ -1,10 +1,11 @@
-<h1 align="center">Hi 👋, I'm Allan Borges</h1>
+<h1 align="center"># Hi 👋, I'm Allan Borges</h1>
 <h3 align="center">A backend developer from Brasil 🇧🇷 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=allansborges&label=Profile%20views&color=0e75b6&style=flat" alt="allansborges" /> </p>
 
 - 🌱 I’m currently learning **MongoDB, Redis & NGiNX**
 - 📫 How to reach me **allandasilvaborges33@gmail.com**
+- ☎️ Whatsapp **+55 22 981137891**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -31,7 +32,7 @@
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40" title="Django"/> 
   </a> 
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" title="Docker"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" title="Docker"/ 
   </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" title="Git"/> 
@@ -46,9 +47,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" title="Linux"/> 
   </a> 
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon
-
-/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" title="MongoDB"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" title="MongoDB"/>
 </a>
 <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40" title="Nginx"/>
