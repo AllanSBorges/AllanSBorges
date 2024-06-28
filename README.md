@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Allan Borges</h1>
-<h3 align="center">A backend developer from Brasil 🇧🇷 </h3>
+# Hi 👋, I'm Allan Borges
+## Um programador Python  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=allansborges&label=Profile%20views&color=0e75b6&style=flat" alt="allansborges" /> </p>
 
