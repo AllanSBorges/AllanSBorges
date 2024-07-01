@@ -1,4 +1,4 @@
-# Hi 👋, I'm Allan Borges
+# Oi 👋, Eu sou o Allan Borges
 ## Um programador Python  
 ### Meus contatos:
 - e-mail: allandasilvaborges33@gmail.com 
